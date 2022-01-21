@@ -1,0 +1,98 @@
+body {
+  background-color: #F3F0D7;
+}
+
+.container-fluid{
+  padding: 1% 6%;
+  background-color: #DF2E2E;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav_elements {
+  padding-left: 40%;
+}
+.register_details {
+  text-align: left;
+  font-size: 17px;
+  width: 60%;
+}
+
+.form {
+  margin: 10% 12%;
+  width: 70%;
+  padding: 5% 5%;
+  background: rgb(184, 252, 210);
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-image: 0rem;
+  display: inline-block;
+}
+
+.login-title {
+  text-align: center;
+  margin: 5%;
+}
+.login-input {
+  font-size: 15px;
+  border: 1px solid #ccc;
+  padding: 5%;
+  margin-bottom: 25px;
+  height: 25px;
+  width: calc(100% - 23px);
+  background-color: #e1f4fa;
+  border-style: groove;
+} 
+
+.register-button {
+  margin: 5% 40%;
+  text-align: center;
+  cursor: pointer;
+  margin-left: 40%;
+  margin-bottom: 5%;
+}
+
+.link {
+  color: rgb(39, 37, 37);
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.link a {
+  color: #666;
+}
+h3 {
+  font-weight: normal;
+  text-align: center;
+}
+
+.blood3 {
+  display: inline-block;
+  position: absolute;
+  bottom: 10%;
+  top: 30%;
+  height: 650px;
+  width: 600px;
+  opacity: 20%;
+}
+
+
+
+/* about part */
+.bottom {
+  background-color: #FF616D;
+  font-size: 1.2rem;
+  padding: 5%;
+  text-align: left;
+}

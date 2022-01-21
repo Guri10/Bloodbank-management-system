@@ -1,0 +1,90 @@
+body {
+  background-color: #F3F0D7;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:10px;
+  margin: 2% 45%;
+  width: 10%;
+}
+
+.container-fluid{
+  padding: 1% 6%;
+  background-color: #DF2E2E;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav_elements {
+  padding-left: 35%;
+}
+
+.form {
+  margin-left: 22%;
+  background-color: rgb(189, 250, 247);
+  width: 60%;
+  padding: 0.5%;
+  text-align: center;
+  border-style: double;
+}
+
+
+.link {
+  color: rgb(39, 37, 37);
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.link a {
+  color: #666;
+}
+.recipient_details {
+      padding: 2%;
+      margin-left: 10%;
+      margin-right: 10%;
+      
+
+}
+
+.Recipient-title {
+    padding: 5%;
+    text-align: center;
+}
+
+.Recipient-input {
+    padding: 0.8%;
+    box-sizing: border-box;
+    margin: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 70%;
+    border-radius: 6px;
+}
+
+.Recipient-button {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+}
+
+/* about part */
+.bottom {
+  background-color: #FF616D;
+  font-size: 1.2rem;
+  padding: 8%;
+  text-align: left;
+}

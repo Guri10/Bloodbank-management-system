@@ -1,0 +1,77 @@
+body {
+  background-color: #F3F0D7;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:10px;
+  margin: 2% 45%;
+  width: 10%;
+}
+
+.container-fluid{
+  padding: 1% 6%;
+  background-color: #DF2E2E;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav_elements {
+  padding-left: 35%;
+  padding-left: 300px;
+  padding-left: 100px;
+}
+
+
+.top {
+  position: relative;
+}
+
+.heading {
+  display: inline;
+  position: absolute;
+  left: 10%;
+  top: 20%;
+  bottom: 20%;
+}
+
+.blood0{
+  opacity: 50%;
+  width: 100%;
+  display: inline;
+  position: relative;
+  z-index: -1;
+}
+
+
+
+.middle {
+  padding: 7%;
+  font-size: 1.2rem;
+}
+
+
+
+
+
+
+/* about part */
+.bottom {
+  background-color: #FF616D;
+  font-size: 1.2rem;
+  padding: 3%;
+  text-align: center;
+}

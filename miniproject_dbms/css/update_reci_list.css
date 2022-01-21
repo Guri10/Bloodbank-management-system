@@ -1,0 +1,81 @@
+body {
+  background-color: #F3F0D7;
+}
+
+.container-fluid{
+  padding: 1% 6%;
+  background-color: #DF2E2E;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav_elements {
+  padding-left: 40%;
+}
+
+.middle {
+  background-color: rgb(244, 253, 159);
+  margin: 5% 10%;
+  padding: 1% 3%;
+  text-align: center;
+  border-style: solid;
+}
+
+
+.table_head1 {
+  padding-right: 500px;
+  padding-bottom: 40px;
+   padding-top: 40px;
+}
+
+.table_head2 {
+  padding-bottom: 40px;
+    padding-top: 40px;
+}
+tbody {
+  text-align: left;
+  padding: 1%;
+  
+  
+}
+.table_content {
+  padding-left: 0;
+  padding-right: 500px;
+  
+}
+
+
+.form {
+  margin: 5% 25%;
+  width: 50%;
+  padding: 2% 3%;
+  background: rgb(184, 252, 210);
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-image: 0rem;
+  display: inline-block;
+  text-align: center;
+}
+
+.login-input {
+  font-size: 15px;
+  border: 1px solid #ccc;
+  padding: 3%;
+  margin-bottom: 25px;
+  height: 25px;
+  width:90%;
+  background-color: #e1f4fa;
+  border-style: groove;
+} 
+
